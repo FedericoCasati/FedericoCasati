@@ -8,7 +8,7 @@ This GitHub hosts portfolio work that complements my primary stack:
 
 - **[modern-data-stack-project](https://github.com/FedericoCasati/modern-data-stack-project)** - End-to-end ELT pipeline: Airflow, Snowflake, dbt, Terraform, Docker, GitHub Actions
 
-Get in touch: [LinkedIn](https://linkedin.com/in/federicocasati) · federico_casati@hotmail.it
+Get in touch: [LinkedIn](https://linkedin.com/in/federico-casati) · federico_casati@hotmail.it
 
 <!---
 FedericoCasati/FedericoCasati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
