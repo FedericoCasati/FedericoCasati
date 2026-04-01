@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @FedericoCasati
-- 👀 I’m interested in data science, artificial intelligence, business, technology, psychology, movies, art, football and travelling
-- 🌱 I’m currently learning data science (with python and SQL)
-- 💞️ I’m looking to collaborate on machine learning projects
-- 📫 How to reach me: email me at federico_casati@hotmail.it
+### Hi, I'm Federico
+
+Data Engineer based in Amsterdam, building end-to-end data platforms in investment management.
+
+At the Constanter Investment Office, I own the full data stack: ingestion architecture, data quality and governance systems, semantic layers, and BI - on Databricks, Azure, and dbt.
+
+This GitHub hosts portfolio work that complements my primary stack:
+
+- **[modern-data-stack-project](https://github.com/FedericoCasati/modern-data-stack-project)** - End-to-end ELT pipeline: Airflow, Snowflake, dbt, Terraform, Docker, GitHub Actions
+
+Get in touch: [LinkedIn](https://linkedin.com/in/federicocasati) · federico_casati@hotmail.it
 
 <!---
 FedericoCasati/FedericoCasati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
